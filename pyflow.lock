@@ -1,15 +1,15 @@
 [[package]]
-id = 2
-name = "click"
-version = "8.0.3"
-source = "pypi+https://pypi.org/pypi/click/8.0.3/json"
-dependencies = []
-
-[[package]]
 id = 1
 name = "typer"
 version = "0.4.0"
 source = "pypi+https://pypi.org/pypi/typer/0.4.0/json"
+dependencies = []
+
+[[package]]
+id = 2
+name = "click"
+version = "8.0.3"
+source = "pypi+https://pypi.org/pypi/click/8.0.3/json"
 dependencies = []
 
 [metadata]
